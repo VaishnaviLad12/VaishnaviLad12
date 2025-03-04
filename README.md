@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Lad</h1>
 <h3 align="center">A passionate both backend & frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c1074bd8-7615-4561-8d4c-a7b7c57fd2df">
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&tbnid=tkD88475CNPNmM&vet=12ahUKEwiG7cvT5O-LAxUssVYBHYtOCqMQM3oECB4QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiG7cvT5O-LAxUssVYBHYtOCqMQM3oECB4QAA">
 

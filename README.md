@@ -1,3 +1,4 @@
+![logo](https://github.com/VaishnaviLad12/VaishnaviLad12/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vaishnavi Lad</h1>
 <h3 align="center">A passionate both backend & frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c1074bd8-7615-4561-8d4c-a7b7c57fd2df">
